@@ -5,8 +5,8 @@ secret:
     username: anyname@gmail.com
     password: password
 message:
-  success: 'Config server is working uuuu
-  error: 'Config server is not working ...yyyy'
+  success: 'Config server is working test'
+  error: 'Config server is not working ...test'
 spring:          
   rabbitmq:
     port: 4672
