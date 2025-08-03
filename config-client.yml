@@ -7,3 +7,9 @@ secret:
 message:
   success: 'Config server is working'
   error: 'Config server is not working'
+spring:          
+  rabbitmq:
+    port: 4672
+    host: localhost
+    username: guest
+    password: guest  
